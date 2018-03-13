@@ -1,2 +1,2 @@
-# faas-armhf-hello-csharp
+# faas-hello-csharp
 Hello World example in C# for use with OpenFaaS
